@@ -1,8 +1,0 @@
-Git is a distributed version control system.
-Git is a free software.
-Git has a mutable index called stage.
-nothong
-git change
-change again
-Creating a new branch is quick and simple.
-add merge
